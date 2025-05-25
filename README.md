@@ -61,4 +61,9 @@ kagglehub
 
 streamlit run app.py
 
+## Live Demo
+
+Try the live app here:  
+[Real Estate Price Predictor](https://realestatepricepredictor-kburwgjiwt7obusquraxvg.streamlit.app/)
+
                               
