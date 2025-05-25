@@ -1,6 +1,15 @@
 
 # (['bed', 'bath', 'house_size']
+"""
 
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("ahmedshahriarsakib/usa-real-estate-dataset")
+
+print("Path to dataset files:", path)
+    
+"""
 import streamlit as st 
 import joblib
 import numpy as np
